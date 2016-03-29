@@ -22,7 +22,7 @@ public class UserController {
 	private UserDAO userDAO;
 	
 	
-	protected final Log logger = LogFactory.getLog(UserController.class);
+	protected final Log logger
 	
 	
 	
